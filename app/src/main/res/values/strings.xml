@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiLanguages</string>
+    <string name="text">Bonjour</string>
+    <string name="btn_ar">arabe</string>
+    <string name="btn_fr">français</string>
+    <string name="btn_open">ouvre</string>
+    <string name="tv_main2">nouvelle fenetre</string>
+</resources>

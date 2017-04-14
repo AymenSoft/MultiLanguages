@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguages</string>
+    <string name="text">السلام</string>
+    <string name="btn_ar">العربية</string>
+    <string name="btn_fr">الفرنسية</string>
+    <string name="btn_open">افتح</string>
+    <string name="tv_main2">نافذة جديدة</string>
+</resources>
